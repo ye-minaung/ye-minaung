@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ye-minaung
+- 👋 Hi, I’m @yeminaung-cgm
 - 👀 CODING bais
 - 🌱 I’m currently working spring, c#, nodjs
 - 💞️ I’m looking to collaborate on 
